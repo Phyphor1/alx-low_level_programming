@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that the size of varoius types on the computer it is compiled
- * Return: 0 (Success)
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
