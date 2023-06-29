@@ -1,1 +1,1 @@
-My C programming task
+my c programming directory
